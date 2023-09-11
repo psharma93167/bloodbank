@@ -52,7 +52,7 @@ foreach ($row as $value) {
 ?>
  
   
-</table>hh
+</table>
  </div>
 
 
